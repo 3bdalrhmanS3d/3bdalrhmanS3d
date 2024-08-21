@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **3bdalrhmanS3d/3bdalrhmanS3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,C++,JAVA, ASP.NET)](https://skillicons.dev)
+
