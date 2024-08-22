@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdalrhmanS3d&label=Profile%20views&color=0e75b6&style=flat" alt="3bdalrhmanS3d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdalrhmanS3d" alt="3bdalrhmanS3d" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdalrhmanS3d" alt="3bdalrhmanS3d" /></a> </p>
 
 - 🌱 I’m currently learning **.NET**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,clion,visualstudio,html,css,js,dart,dotnet,github,mysql,php,powershell,py" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,cpp,java,clion,visualstudio,html,css,js,dart,dotnet,github,mysql,php,powershell,py" />
   </a>
 </p>
 
