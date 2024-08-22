@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdalrhmanS3d&show_icons=true&locale=en&layout=compact" alt="3bdalrhmanS3d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdalrhmanS3d&show_icons=true&locale=en"alt3bdalrhmanS3d" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdalrhmanS3d&show_icons=true&locale=en"3bdalrhmanS3d" /></p>
