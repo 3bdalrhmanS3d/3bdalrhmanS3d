@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrhmansaad27](https://www.linkedin.com/in/abdulrhmansaad27)
 
-- 💬 Ask me about **C# , Javascript , SQL , .Net API , .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce, HR**
+- 💬 Ask me about **C# , Javascript , SQL, .Net API, .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce, HR**
 
 - 📫 How to reach me **abdalrhmansaad24@gmail.com**
 
