@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/3bdalrhmanS3d](https://github.com/3bdalrhmanS3d)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrhmansaad27](https://www.linkedin.com/in/abdulrhmansaad27)
 
 - 💬 Ask me about **C# , Javascript , SQL, .Net API, .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce, HR**
