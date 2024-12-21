@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrhmansaad27](https://www.linkedin.com/in/abdulrhmansaad27)
+- 📝 I regularly write articles on [abdulrhmansaad27](https://www.linkedin.com/in/abdulrhmansaad27)
 
 - 💬 Ask me about **C# , Javascript , SQL, .Net API, .NET MVC , Razor , CSS , Bootstrap, HTML , Salesforce, HR**
 
@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdalrhmanS3d&show_icons=true&locale=en&layout=compact" alt="3bdalrhmanS3d" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdalrhmanS3d&show_icons=true&locale=en"3bdalrhmanS3d" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdalrhmanS3d&" alt="3bdalrhmanS3d" /></p>
