@@ -38,7 +38,7 @@
 
 ### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux" />
 </p>
 
 ### **Development Environment**
@@ -96,9 +96,6 @@
   </a>
   <a href="mailto:abdalrhmansaad24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/3bdalrhmanS3d" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
